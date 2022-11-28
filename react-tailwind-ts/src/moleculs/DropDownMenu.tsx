@@ -1,5 +1,5 @@
 import React from 'react';
-import { MenuProps, Space, Menu, Dropdown } from 'antd';
+import {Space, Dropdown } from 'antd';
 import { AiOutlineMenu } from "react-icons/ai";
 
 const items = [
